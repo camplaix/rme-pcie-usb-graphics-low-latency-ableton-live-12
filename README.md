@@ -1,6 +1,8 @@
 # Ableton Live 12
 # RME PCIe, USB and Graphics low-latency performance
 
+*Originally published on [Gearspace](https://gearspace.com/board/ableton-live/1460768-rme-pcie-usb-graphics-low-latency-performance-high-cpu-load-context-ableton-live-12-a.html), February 2026.*
+
 <sub>*Disclaimer : Computer audio low-latency load testing is a context-sensitive activity, with significant variability in real-time performance - influenced by the version of the operating system and of the device drivers installed. These tests comprise a specific set of configurations that originate the findings shared in this post.*</sub>
 
 ## Test Objective
@@ -337,3 +339,5 @@ List of attempted changes:
 Some useful links for a deeper dive in the MMCSS system service:
 >[github.com/nohuto](https://github.com/nohuto/win-config/blob/main/system/desc.md#mmcss-values)\
 >[github.com/djdallmann](https://github.com/djdallmann/GamingPCSetup/tree/master/CONTENT/RESEARCH/WINSERVICES)
+
+[← Back to camplaix.github.io](https://camplaix.github.io/)
